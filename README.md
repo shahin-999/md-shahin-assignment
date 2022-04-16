@@ -1,1 +1,1 @@
-# Allure report screen sort ### 1. Over view![Over view](assignment/report-img/overview.png)### 2. Graphs![Graphs](assignment/report-img/graphs.png)### 3. Suites![Suites](assignment/report-img/suites.png)
+# Allure report screenshot ### 1. Over view![Over view](assignment/report-img/overview.png)### 2. Graphs![Graphs](assignment/report-img/graphs.png)### 3. Suites![Suites](assignment/report-img/suites.png)
