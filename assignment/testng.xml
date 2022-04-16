@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="F:/SQA/BS23Assignment/assignment">
+        <classes>
+            <class name="testCasePackage.TC001_CreateAccount">
+                <methods>
+                    <include name="registration1"/>
+                    <include name="registration2"/>
+                </methods>
+            </class>
+            <class name="testCasePackage.TC002_loginAndPurchaseProduct">
+                <methods>
+                    <include name="loginAndPurchase1"/>
+                    <include name="loginAndPurchase2"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
